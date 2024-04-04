@@ -1,6 +1,10 @@
 {
   "users": [
     {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
       "id": "bf65",
       "name": "Jodi Lind"
     },
@@ -17,14 +21,61 @@
       "name": "Misty Nienow"
     },
     {
-      "id": "0ea5",
-      "name": "Carolyn Lebsack PhD"
-    },
-    {
-      "id": "ce93",
-      "name": "Darren McDermott Sr."
+      "id": "2789",
+      "name": "Wm Fisher"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "id": "6102",
+      "title": "Electronic Metal Hat",
+      "userId": "bf65"
+    },
+    {
+      "id": "f1b7",
+      "title": "Rustic Bronze Shirt",
+      "userId": "1"
+    },
+    {
+      "id": "3756",
+      "title": "Awesome Plastic Soap",
+      "userId": "380b"
+    },
+    {
+      "id": "632d",
+      "title": "Practical Soft Keyboard",
+      "userId": null
+    },
+    {
+      "id": "256a",
+      "title": "Gorgeous Granite Hat",
+      "userId": "fbf2"
+    },
+    {
+      "id": "7fe7",
+      "title": "Sleek Metal Chicken",
+      "userId": "33c0"
+    },
+    {
+      "id": "4ecf",
+      "title": "Incredible Concrete Cheese",
+      "userId": "33c0"
+    },
+    {
+      "id": "cd43",
+      "title": "Handcrafted Plastic Car",
+      "userId": "33c0"
+    },
+    {
+      "id": "bb94",
+      "title": "Recycled Soft Soap",
+      "userId": "2789"
+    }
+  ],
   "photos": []
 }

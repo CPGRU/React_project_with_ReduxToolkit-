@@ -8,6 +8,6 @@ const addUser = createAsyncThunk('users/add', async()=>{  //base type === 'users
     });
 
     return response.data  //action.payload
-})
+});
 
 export { addUser };
