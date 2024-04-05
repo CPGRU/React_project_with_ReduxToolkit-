@@ -75,7 +75,43 @@
       "id": "bb94",
       "title": "Recycled Soft Soap",
       "userId": "2789"
+    },
+    {
+      "id": "a3e3",
+      "title": "Awesome Cotton Pants",
+      "userId": "7cf2"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "8cb0",
+      "url": "https://loremflickr.com/150/150/abstract?lock=79477",
+      "albumId": "a3e3"
+    },
+    {
+      "id": "117c",
+      "url": "https://loremflickr.com/150/150/abstract?lock=58720",
+      "albumId": "a3e3"
+    },
+    {
+      "id": "6603",
+      "url": "https://loremflickr.com/150/150/abstract?lock=90082",
+      "albumId": "3756"
+    },
+    {
+      "id": "d9e7",
+      "url": "https://loremflickr.com/150/150/abstract?lock=34939",
+      "albumId": 10
+    },
+    {
+      "id": "790b",
+      "url": "https://loremflickr.com/150/150/abstract?lock=17341",
+      "albumId": 10
+    },
+    {
+      "id": "6c78",
+      "url": "https://loremflickr.com/150/150/abstract?lock=79103",
+      "albumId": 10
+    }
+  ]
 }
